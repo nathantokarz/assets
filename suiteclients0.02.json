@@ -1,71 +1,191 @@
 {
   "data": [
     {
-      "name": "The Honest Rug",
-      "short": "552 Honest Rugs",
-      "description": "The 552 Honest Rugs are the key component to begin the summoning ritual to bring forth Rug Assassins... Where are the Rug Assassins when we need them?",
-      "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/honestrugs_pfp_1658547820370.gif",
-      "staking": "",
-      "magiceden": "https://magiceden.io/marketplace/honestrugs",
-      "twitter": "",
-      "discord": "https://discord.com/invite/KwdFSg7tH7"
+      "name": "Abominable Solman Society",
+      "short": "4400 Abominable Solman",
+      "description": "A collection of Abominable Solman, a society implementing utility like no other.",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/abominable_solman_society_pfp_1656334539541.gif",
+      "staking": "https://abominable-solman-society.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/abominable_solman_society",
+      "twitter": "https://twitter.com/Abominable_SS",
+      "discord": "https://discord.com/invite/abominable-solman-society"
+    },
+    {
+      "name": "Apes of the Gods",
+      "short": "2222 Superhero Apes",
+      "description": "The Apes of the Gods Project was created for the community and will be driven by it. Apes of the Gods is made up of 2,222 unique Superhero Apes governed by DAO",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/aotg_pfp_1649906999780.jpeg",
+      "staking": "https://apes-of-the-gods.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/aotg",
+      "twitter": "https://twitter.com/ApesoftheGods",
+      "discord": "https://discord.com/invite/Apesofthegods"
+    },
+    {
+      "name": "Blood Bats",
+      "short": "3333 Blood Bats",
+      "description": "In times when the market bleeds, the Blood Bats emerge. A collection of 3333 uniquely generated NFTs brought to the Solana Blockchain to offer holders the tools and support to help them thrive, even at the darkest hour.",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachmentThumbnails/ce9bbd01916a86a22a3e0099a8375854/4c4d8140",
+      "staking": "https://blood-bats.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/blood_bats",
+      "twitter": "https://twitter.com/BloodBatsNFT",
+      "discord": "https://discord.com/invite/bloodbats"
     },
     {
       "name": "Buff Bears",
       "short": "5000 Swole Bears",
       "description": "5K swole bears coming to solana to lay the foundation of a solid community & web3 brand focussed on building & gains.",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/buffbears_pfp_1653030334392.jpeg",
-      "staking": "",
+      "staking": "https://buff-bears.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/buffbears",
       "twitter": "https://twitter.com/Buffbears_SOL",
       "discord": "https://discord.com/invite/VgTyrqMj3v"
+    },
+    {
+      "name": "CareBearzDAO",
+      "short": "5000 Care Bears",
+      "description": "CareBearzDAO is a collection of 5000 bears coming from the clouds. Don't fade on them, because every Care Bear has a dark side..",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeibiecwksihqogaqohuvvfh6fdyxetken4nllhgssh425joadyn2sy.ipfs.dweb.link/",
+      "staking": "https://carebearzdao.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/carebearz",
+      "twitter": "https://twitter.com/CareBearzNFT",
+      "discord": "https://discord.com/invite/jKRxnMKKv8"
+    },
+    {
+      "name": "Chicken Mafia",
+      "short": "2500 Mafia Chickens",
+      "description": "First NFT project that will collaborate and partner up with hospitality brands, first in the space, not just Solana.",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachments/9afad9a58f2ba28c750cd23ce214f01f/ba019d55/COLLECTION_PFP.png",
+      "staking": "https://chicken-mafia.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/chicken_mafia",
+      "twitter": "https://twitter.com/chickenmafiasol",
+      "discord": "https://discord.com/invite/chickenmafia"
+    },
+    {
+      "name": "Degen Fox",
+      "short": "3333 Degen Foxes",
+      "description": "A pack of 3333 Degenerate Foxes roaming the Solana blockchain",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafkreichso75ocj3feod3mdtlzz7o7ecguv44xum4ho36rjfmm4d3yiktm.ipfs.dweb.link/",
+      "staking": "https://degen-fox.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/defox_",
+      "twitter": "https://twitter.com/DeFoxNFT",
+      "discord": "https://discord.com/invite/yaauUTypWY"
+    },
+    {
+      "name": "Forest Apes",
+      "short": "5000 Forest Apes",
+      "description": "A species of 5000 apes living in the forest of Solana, Community-Driven into the Forest",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/forest_apes_pfp_1652924548874.gif",
+      "staking": "https://forest-apes.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/forest_apes",
+      "twitter": "https://twitter.com/ForestApesDAO",
+      "discord": "https://discord.com/invite/4P53WYbj6m"
+    },
+    {
+      "name": "The Honest Rug",
+      "short": "552 Honest Rugs",
+      "description": "The 552 Honest Rugs are the key component to begin the summoning ritual to bring forth Rug Assassins... Where are the Rug Assassins when we need them?",
+      "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/honestrugs_pfp_1658547820370.gif",
+      "staking": "https://the-honest-rug.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/honestrugs",
+      "twitter": "https://twitter.com/rugassassins",
+      "discord": "https://discord.com/invite/KwdFSg7tH7"
     },
     {
       "name": "Grouchy Gators",
       "short": "5000 Grouchy Gators",
       "description": "5,000 Grouchy Gators dominating the Solana Swamps.",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/grouchy_gators_pfp_1655125299936.gif",
-      "staking": "",
+      "staking": "https://grouchy-gators.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/grouchy_gators",
       "twitter": "https://twitter.com/GrouchyGators",
       "discord": "https://discord.com/invite/dTgD6kVzKN"
+    },
+    {
+      "name": "Phantomz",
+      "short": "3500 Phantomz",
+      "description": "GEN 1 collection with a multi-structural interdimensional explorers with portals, shades and mutations.",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/komradz_pfp_1648409097706.gif",
+      "staking": "https://phantomz.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/komradz",
+      "twitter": "https://twitter.com/PhantomzNFT_",
+      "discord": "https://discord.com/invite/Phantomz"
     },
     {
       "name": "Pig Power",
       "short": "3333 Powerful Pigs",
       "description": "3333 Powerful Pigs on the Solana Blockchain",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/pig_power_pfp_1654474753984.png",
-      "staking": "",
+      "staking": "https://pig-power.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/pig_power",
       "twitter": "https://twitter.com/PigPowerNFT",
       "discord": "https://discord.com/invite/csvUBt3yEv"
+    },
+    {
+      "name": "Projekt Paradise",
+      "short": "1,111 Warrioress",
+      "description": "Gen 0 collection Of 1,111 warrioress welcome solana to Projekt Paradise! Stake (Meditate) in order to gather $Chi and reach a higher Level of consciousness to unlock rewards!",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/projekt_paradise_pfp_1644090655745.png",
+      "staking": "https://projekt-paradise.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/projekt_paradise",
+      "twitter": "https://twitter.com/ProjektParadise",
+      "discord": "https://discord.com/invite/XddPmuMM5d"
     },
     {
       "name": "The Polarians",
       "short": "2400 Polarians",
       "description": "The Polarians are a 2400 fully animated generative collectible project on the Solana Blockchain. Our project brings utility to their holders, by providing them with high-quality, animated artworks, a fundamentally strong community, and a holder-exclusive floor-sweeping software.",
       "img": "https://dl.airtable.com/.attachments/4267ccfa3ec6b022948a23376955d686/ad374799/polarproject500x500.gif",
-      "staking": "",
+      "staking": "https://the-polarians.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/the_polarians",
       "twitter": "https://twitter.com/PolariansNFT",
       "discord": "https://discord.com/invite/XepAGhHT"
+    },
+    {
+      "name": "Rowdy Rams",
+      "short": "4424 Rowdy Rams",
+      "description": "Rowdy Rams is a collection of 4424 unique pixelated Rams on the Solana Blockchain. We have the most active, engaged, and ROWDY community out there. Our project is all about giving back to holders; community is our #1 priority. You can stake your Rowdy Rams to earn $RRAM, mint a Ram Ranch, and breed them! Join the herd today!",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://dl.airtable.com/.attachments/75564cfa66bd048cba6b6aa2f2b9519e/ac5e1afb/202.png",
+      "staking": "https://rowdy-rams.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/rowdy_rams",
+      "twitter": "https://twitter.com/RowdyRamsNFT",
+      "discord": "https://discord.com/invite/rowdyrams"
+    },
+    {
+      "name": "Rowdy Lambs",
+      "short": "2212 Rowdy Lambs",
+      "description": "A collection of 2,212 Rowdy Lambs roaming the Rowdy Ranch. A gen 2 collection minted by breeding 2 Rowdy Rams. Rowdy Lambs will soon be part of a much larger ecosystem of pixel animals, with a highly unique tokenomics structure. Let’s Get Rowdy!",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/rowdy_lambs_pfp_1649793108679.gif",
+      "staking": "https://rowdy-lambs.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/rowdy_lambs",
+      "twitter": "https://twitter.com/RowdyRamsNFT",
+      "discord": "https://discord.com/invite/rowdyrams"
     },
     {
       "name": "solDOOGLES",
       "short": "1111 solDoogles",
       "description": "1111 solDOOGLES have been woken up out of their slumber on Solana.",
       "img": "https://dl.airtable.com/.attachments/c56fab74cf703e1d5d2c5046e3279c5b/1e660c93/doogler.png",
-      "staking": "",
+      "staking": "https://soldoogles.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/doogles",
       "twitter": "https://twitter.com/solDOOGLES",
       "discord": "https://discord.com/invite/BZQzNzqSVD"
+    },
+    {
+      "name": "Stoner Cups",
+      "short": "5000 Stoner Cups",
+      "description": "Stoner cups is a unique collection of NFTs getting baked on the Solana blockchain that is 100% community driven.",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/stoner_cups_pfp_1649174527210.gif",
+      "staking": "https://cups-inc.solsuites.app/",
+      "magiceden": "https://magiceden.io/marketplace/stoner_cups",
+      "twitter": "https://twitter.com/StonerCupsNFT",
+      "discord": "https://discord.com/invite/gFQdk9wt7z"
     },
     {
       "name": "Sumptuous Stallions",
       "short": "1717 Sumptuous Stallions",
       "description": "1717 unique and hand-drawn Sumptuous Stallions galloping into Solana Blockchain",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/sumptuous_stallions_pfp_1655917640393.png",
-      "staking": "",
+      "staking": "https://sumptuous-stallions.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/sumptuous_stallions",
       "twitter": "https://twitter.com/SumptuousStalls",
       "discord": "https://discord.com/invite/8PSjaCWtm4"
@@ -75,7 +195,7 @@
       "short": "2995 Evolved Chimps",
       "description": "2995 Evolved Chimps, time traveling throughout the blockchains. Trapped between time lines... They've learned all they know through pop culture artifacts discovered on their journey through Earth's destruction. Now that your chimp is secured, rescued by a fleet of Deloreans, there is much still to do. Our time machines were destroyed on re-entry, we now need to get them fixed to save the rest... We must get back there... Back... to the future!",
       "img": "https://creator-hub-prod.s3.us-east-2.amazonaws.com/ttcc_pfp_1653534328155.gif",
-      "staking": "",
+      "staking": "https://ttcc.solsuites.app/",
       "magiceden": "https://magiceden.io/marketplace/ttcc",
       "twitter": "https://twitter.com/TimeTravelingCC",
       "discord": "https://discord.com/invite/scTz79S5pS"
