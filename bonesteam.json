@@ -1,0 +1,25 @@
+{
+  "founders": [
+    {
+      "name": "Caan",
+      "position": "CEO",
+      "img": "https://pbs.twimg.com/profile_images/1563382963399602176/bi4YHCUt_400x400.jpg",
+      "location": "Bali",
+      "twitter": "https://twitter.com/caaan1104"
+    },
+    {
+      "name": "Nate",
+      "position": "CTO",
+      "img": "https://pbs.twimg.com/profile_images/1567905611190517762/aZhiWU7e_400x400.jpg",
+      "location": "USA",
+      "twitter": "https://twitter.com/cryptonate111"
+    },
+    {
+      "name": "Karl",
+      "position": "CM",
+      "img": "https://pbs.twimg.com/profile_images/1567905611190517762/aZhiWU7e_400x400.jpg",
+      "location": "UK",
+      "twitter": "https://twitter.com/KarlKulture"
+    }
+  ]
+}
