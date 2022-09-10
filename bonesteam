@@ -1,1 +1,25 @@
-{}
+{
+  "founders": [
+    {
+      "name": "Caan",
+      "position": "CEO",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/abominable_solman_society_pfp_1656334539541.gif",
+      "location": "Bali",
+      "twitter": "https://twitter.com/caaan1104",
+    },
+    {
+      "name": "Nate",
+      "position": "CTO",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/abominable_solman_society_pfp_1656334539541.gif",
+      "location": "USA",
+      "twitter": "https://twitter.com/cryptonate111",
+    },
+    {
+      "name": "Karl",
+      "position": "CTO",
+      "img": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://creator-hub-prod.s3.us-east-2.amazonaws.com/abominable_solman_society_pfp_1656334539541.gif",
+      "location": "UK",
+      "twitter": "https://twitter.com/KarlKulture",
+    }
+  ]
+}
