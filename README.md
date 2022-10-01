@@ -9,8 +9,8 @@ How to create a QuickDrop:
 
 1. Visit https://tokenclaim.neft.world/ and login with your Solana wallet.
 2. Click on the "Create a New Drop" button
-   *Enter the Mind Id of the token you want to be claimed
-   *Enter a name for the token claim (mainly for your reference on the dashboard
+   * Enter the Mind Id of the token you want to be claimed
+   * Enter a name for the token claim (mainly for your reference on the dashboard
 3. 
 
 ```TypeScript
