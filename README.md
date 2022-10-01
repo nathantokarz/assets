@@ -3,7 +3,7 @@
 QuickDrop is a wallet based WL and SPL token claiming solution. This solution comes in the form of an npm package and API to allow developers freedom to create and build on top of this claiming solution. Include it in your mint page or use it in replacement of airdrops.
 
 * Easy to use admin dashboard to create and manage your ongoing token claims. Simply prepare your list of wallets including the # of tokens each wallet gets in tsv or csv format.
-* Pay the initial Sol fee to create a QuickDrop, but after that the fees get shifted over to those claiming. It is a fixed 0.## Sol fee per claim. It does not matter the quantity being claimed
+* Pay the initial #.## Sol fee to create a QuickDrop, but after that the fees get shifted over to those claiming. It is a fixed 0.## Sol fee per claim. It does not matter the quantity being claimed
 
 ***
 
