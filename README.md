@@ -5,13 +5,17 @@ QuickDrop is a wallet based WL and SPL token claiming solution. This solution co
 * Easy to use admin dashboard to create and manage your ongoing token claims. Simply prepare your list of wallets including the # of tokens each wallet gets in tsv or csv format.
 * Pay the initial Sol fee to create a QuickDrop, but after that the fees get shifted over to those claiming. It is a fixed 0.## Sol fee per claim. It does not matter the quantity being claimed
 
+***
+
 How to create a QuickDrop:
 
 1. Visit https://tokenclaim.neft.world/ and login with your Solana wallet.
-2. Click on the "Create a New Drop" button
-   * Enter the Mind Id of the token you want to be claimed
-   * Enter a name for the token claim (mainly for your reference on the dashboard
-3. 
+2. Click on the "Create a New Drop" button and create a new drop.
+   * Enter the Mind Id of the token you want to be claimed.
+   * Enter a name for the token claim (mainly for your reference on the dashboard).
+   * Click on Create and confirm the transaction for the drop creation. 
+3. Upload your tsv or csv file that includes the wallets and the number of tokens each wallet should receive.
+
 
 ```TypeScript
 import { NotifyType, useTokenClaimer } from "@jeeh/tokenclaim-ui";
