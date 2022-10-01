@@ -1,4 +1,4 @@
-# NEFT QuickDrop + CMv2 based on Metaplex Candy Machine Reference UI (cra v4)
+# NeftQuickDrop + CMv2 based on Metaplex Candy Machine Reference UI (cra v4)
 
 QuickDrop is a wallet based WL and SPL token claiming solution. This solution comes in the form of an npm package and API to allow developers freedom to create and build on top of this claiming solution. Include it in your mint page or use it in replacement of airdrops.
 
@@ -16,6 +16,7 @@ QuickDrop is a wallet based WL and SPL token claiming solution. This solution co
    * Click on Create and confirm the transaction for the drop creation. 
 3. Upload your tsv or csv file that includes the wallets and the number of tokens each wallet should receive. An example of the csv format is below.
 4. Initiate your QuickDrop. The number of tokens found in the csv or tsv file will be taken from your wallet and sent to the distributor wallet. This is the wallet that acts as escrow and distributes the token claims. Upon success, you will receive your QuickDrop ID.
+
 
 
 
